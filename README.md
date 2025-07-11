@@ -14,4 +14,4 @@
 
 此外，平台还根据用户的观看历史和评分进行个性化推荐，确保您可以找到更多符合您口味的影片。我们还鼓励用户与其他影迷分享观看心得，参与评论和评分，打造一个更互动的社区。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link]( https://github.com/fkt20250711/fkt10)</span>
